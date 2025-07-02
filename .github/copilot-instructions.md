@@ -14,16 +14,18 @@ When extracting unit stats, from top to bottom the numbers represent:
 When analyzing card anatomy, extract the following components:
 
 ### Basic Card Elements
+
 - **Card Name**: Identifies a specific card (appears at the top of the card)
 - **Cost and Rank**: Most cards have a cost in echo to be played, represented by the number on the diamond. The color of the diamond indicates a card's rank:
   - Orange = Basic
-  - Blue = Elite  
+  - Blue = Elite
   - Yellow = Unique
   - Red = Legendary
 - **Factions**: The card's faction affiliation is shown with one or more faction sigils
 - **Card Type & Subtype**: Example types include unit, spell, and attachment. Cards can also be divided into subtypes, which highlight their particular characteristics and are used for some game effects.
 
 ### Unit-Specific Elements
+
 - **Stats**: Specific to unit cards. This represents how capable a unit is at interactions on the battlefield. Stats are displayed as icons with numbers:
   - Accuracy (crosshair icon)
   - Power (explosion icon with slash notation for hit/graze damage)
@@ -33,16 +35,18 @@ When analyzing card anatomy, extract the following components:
   - Max Health (heart icon)
 
 ### Card Effects
+
 - **Text Box**: A detailed description of a card's effects. On a unit card, this box lists all of its abilities.
 
 ## Metadata Extraction Guidelines
 
 When analyzing card anatomy, reference input/card-anatomy.png and input/character-stats.png
-When asked to extract metadata from a card, write it to output/cards.md in a format ChatGPT will understand. Do not extract artist, copyright date, or language. Include:
+When asked to extract metadata from a card, write it to output/cards.md in a format ChatGPT will understand. The header markdown tag should be the card name. Do not extract artist, copyright date, language, or flavor text. Include:
+
 - Card name
 - Faction(s)
 - Card rarity (basic, elite, unique, legendary)
 - Card type and subtype(s)
 - Cost (if applicable)
 - Stats (for unit cards)
-- Abilities and text box content
+- Abilities
