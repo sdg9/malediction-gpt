@@ -42,20 +42,79 @@ This will:
 - Save output files to the `output/` folder with the same name but `.txt` extension
 - Example: `Malediction_BasicRules_Ver1-compact.pdf` → `Malediction_BasicRules_Ver1-compact.txt`
 
+## Card Metadata Extraction
+
+This project also includes tools to automatically extract metadata from Malediction card images using AI vision models via OpenRouter.
+
+### Setup for Card Extraction
+
+1. **Get an OpenRouter API key** from [openrouter.ai](https://openrouter.ai/)
+
+2. **Set up your environment:**
+   ```bash
+   # Copy the environment template
+   cp .env.example .env
+   
+   # Edit .env and add your OpenRouter API key
+   ```
+
+3. **Place card images** in the `input/cards/` directory (supports .webp, .jpg, .png)
+
+### Extract Card Metadata
+
+Use the convenient wrapper script:
+
+```bash
+./scripts/extract_cards.sh
+```
+
+Or run directly:
+
+```bash
+# Test with a single card first
+python3 src/test_single_card.py
+
+# Process all cards
+python3 src/extract_card_metadata.py
+```
+
+The script will:
+- Analyze each card image using AI vision
+- Extract structured metadata (name, faction, stats, abilities, etc.)
+- Generate clean markdown suitable for ChatGPT consumption
+- Save results to `output/cards.md`
+
+For detailed instructions, see [CARD_EXTRACTION_README.md](CARD_EXTRACTION_README.md).
+
 ## Project Structure
 
 ```text
 malediction-gpt/
-├── input/                              # Place your PDF files here
+├── input/                              # Place your PDF files and card images here
 │   ├── Malediction_BasicRules_Ver1-compact.pdf
-│   └── Malediction_FAQ_MAY25_rev_2.pdf
-├── output/                             # Generated text files
+│   ├── Malediction_FAQ_MAY25_rev_2.pdf
+│   ├── card-anatomy.png                # Reference image for card structure
+│   └── cards/                          # Card images for metadata extraction
+│       ├── imgi_100_PE-33.webp
+│       ├── imgi_101_PE-124.webp
+│       └── ... (more card images)
+├── output/                             # Generated text files and metadata
 │   ├── Malediction_BasicRules_Ver1-compact.txt
-│   └── Malediction_FAQ_MAY25_rev_2.txt
+│   ├── Malediction_FAQ_MAY25_rev_2.txt
+│   └── cards.md                        # Extracted card metadata
 ├── src/                                # Source code
-│   └── pdfToText.py
+│   ├── pdfToText.py                    # PDF to text converter
+│   ├── extract_card_metadata.py       # Card metadata extractor
+│   └── test_single_card.py             # Single card testing script
+├── scripts/                            # Convenience scripts
+│   └── extract_cards.sh                # Card extraction wrapper script
+├── .github/                            # GitHub configuration
+│   └── copilot-instructions.md         # Card analysis instructions
 ├── venv/                               # Virtual environment (created after setup)
+├── .env.example                        # Environment template
+├── .env                                # Your API keys (create this)
 ├── requirements.txt                    # Python dependencies
+├── CARD_EXTRACTION_README.md           # Detailed card extraction guide
 ├── CONTRIBUTING.md                     # Contribution guidelines
 ├── LICENSE                             # Public domain license
 ├── README.md
@@ -64,8 +123,20 @@ malediction-gpt/
 
 ## Available Files
 
-- `src/pdfToText.py` - Python script to convert PDF to text
+### Core Scripts
+- `src/pdfToText.py` - Convert PDF rules to text format
+- `src/extract_card_metadata.py` - Extract metadata from card images using AI
+- `src/test_single_card.py` - Test card extraction with a single image
+- `scripts/extract_cards.sh` - Convenient wrapper script for card extraction
+
+### Configuration
 - `requirements.txt` - Python dependencies
+- `.env.example` - Environment template for API keys
+- `.github/copilot-instructions.md` - Card analysis guidelines for AI
+
+### Documentation
+- `CARD_EXTRACTION_README.md` - Detailed guide for card metadata extraction
+- `CONTRIBUTING.md` - Contribution guidelines
 
 ## Notes
 

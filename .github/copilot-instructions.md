@@ -21,7 +21,13 @@ When analyzing card anatomy, extract the following components:
   - Blue = Elite
   - Yellow = Unique
   - Red = Legendary
-- **Factions**: The card's faction affiliation is shown with one or more faction sigils
+- **Factions**: The card's faction affiliation is shown in the diamond to the right of the card name. The factions are as follows
+  - Blue diamond: Conclave of the Sphere
+  - Green diamond: Legion of the Fallen
+  - Yellow diamond: Order of the Shattered Throne
+  - Red diamond: Primal Blood
+  - Note some cards have no faction affiliation, such as items, which is indicated by the absence of a faction sigil.
+  - Note some cards have two faction affiliations, such as Auric Evenhand, which is indicated by different colors in the top half and bottom half of the diamond icon.
 - **Card Type & Subtype**: Example types include unit, spell, and attachment. Cards can also be divided into subtypes, which highlight their particular characteristics and are used for some game effects.
 
 ### Unit-Specific Elements
@@ -50,3 +56,4 @@ When asked to extract metadata from a card, write it to output/cards.md in a for
 - Cost (if applicable)
 - Stats (for unit cards)
 - Abilities
+- Include the image name in the markdown as a link to the image file in the input/cards/ directory
