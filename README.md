@@ -51,6 +51,7 @@ This project also includes tools to automatically extract metadata from Maledict
 1. **Get an OpenRouter API key** from [openrouter.ai](https://openrouter.ai/)
 
 2. **Set up your environment:**
+
    ```bash
    # Copy the environment template
    cp .env.example .env
@@ -79,6 +80,7 @@ python3 src/extract_card_metadata.py
 ```
 
 The script will:
+
 - Analyze each card image using AI vision
 - Extract structured metadata (name, faction, stats, abilities, etc.)
 - Generate clean markdown suitable for ChatGPT consumption
@@ -124,17 +126,20 @@ malediction-gpt/
 ## Available Files
 
 ### Core Scripts
+
 - `src/pdfToText.py` - Convert PDF rules to text format
 - `src/extract_card_metadata.py` - Extract metadata from card images using AI
 - `src/test_single_card.py` - Test card extraction with a single image
 - `scripts/extract_cards.sh` - Convenient wrapper script for card extraction
 
 ### Configuration
+
 - `requirements.txt` - Python dependencies
 - `.env.example` - Environment template for API keys
 - `.github/copilot-instructions.md` - Card analysis guidelines for AI
 
 ### Documentation
+
 - `CARD_EXTRACTION_README.md` - Detailed guide for card metadata extraction
 - `CONTRIBUTING.md` - Contribution guidelines
 
@@ -171,17 +176,22 @@ FYI my current GPT instructions for the Malediction Rules GPT are:
 - Ingest the `.txt` version first—use its page markers for quotations.
 - Use the PDF/FAQ as secondary reference when users mention diagrams or casting doubt on your text quotes.
 - The uploaded documents have **page number annotations** embedded in the text.
-- When providing an answer, **include the page number** where the information is found, formatted like:
+- When providing an answer with content from the rules or FAQ, **include the page number** where the information is found, formatted like:
   > “See page 12 of the rulebook.”
 - If the exact page is unclear or missing, say:
   > “I’m not sure which page this appears on—please check the official documents.”
+- If providing information based on a card, reference the card's name.
 
 ## ✅ Behavior Guidelines
 1. **Be precise** and **concise**, no fluff.  
 2. **Use bullet points or numbered lists** for clarity when detailing rules or steps.  
 3. **Ask follow‑up questions** if a user’s query is ambiguous.  
 4. **Don’t hallucinate**—only state what is in the official sources.
-
+5.  Support color shorthand references for factions
+    - 'blue': 'Conclave of the Sphere'
+    - 'green': 'Legion of the Fallen'
+    - 'yellow': 'Order of the Shattered Throne'
+    - 'red': 'Primal Blood'
 
 ## ✅ Workflow
 
