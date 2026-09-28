@@ -1,5 +1,6 @@
 
 # Virtahn Battlecaster
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Unit
@@ -18,22 +19,22 @@
 
 ![Virtahn Battlecaster](cards/faction_blue/virtahn-battlecaster.webp)
 
-
 # Brewing Fate
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
 - Subtype(s): Swift
 - Cost: 2
-- Abilities: 
+- Abilities:
   - After a player makes an attack roll, choose one:
     - That attack has +3 Accuracy.
     - That attack has -3 Accuracy.
 
 ![Brewing Fate](cards/faction_blue/brewing-fate.webp)
 
-
 # Conclave Artillerist
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Unit
@@ -52,8 +53,8 @@
 
 ![Conclave Artillerist](cards/faction_blue/conclave-artillerist.webp)
 
-
 # Conclave Scholar
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Elite
 - Card type: Unit
@@ -72,8 +73,8 @@
 
 ![Conclave Scholar](cards/faction_blue/conclave-scholar.webp)
 
-
 # Akhenzan Shieldmage
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Unit
@@ -92,8 +93,8 @@
 
 ![Akhenzan Shieldmage](cards/faction_blue/akhenzan-shieldmage.webp)
 
-
 # Demanifest
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type and subtype(s): Spell, Channel
@@ -102,8 +103,8 @@
 
 ![Demanifest](cards/faction_blue/demanifest.webp)
 
-
 # Dimension Breach
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Spell
@@ -113,8 +114,8 @@
 
 ![Dimension Breach](cards/faction_blue/dimension-breach.webp)
 
-
 # Duplicate
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type and subtype(s): Spell, Channel
@@ -123,8 +124,8 @@
 
 ![Duplicate](cards/faction_blue/duplicate.webp)
 
-
 # Amblis Transposition
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Spell
@@ -134,8 +135,8 @@
 
 ![Amblis Transposition](cards/faction_blue/amblis-transposition.webp)
 
-
 # Gateway Guardian
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Unit
@@ -155,8 +156,8 @@
 
 ![Gateway Guardian](cards/faction_blue/gateway-guardian.webp)
 
-
 # Liastrum Discharge
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -166,8 +167,8 @@
 
 ![Liastrum Discharge](cards/faction_blue/liastrum-discharge.webp)
 
-
 # Liastrum Stride
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -177,8 +178,8 @@
 
 ![Liastrum Stride](cards/faction_blue/liastrum-stride.webp)
 
-
 # Momentum Weaver
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Unit
@@ -197,8 +198,8 @@
 
 ![Momentum Weaver](cards/faction_blue/momentum-weaver.webp)
 
-
 # Neutralizing Ward
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -208,8 +209,8 @@
 
 ![Neutralizing Ward](cards/faction_blue/neutralizing-ward.webp)
 
-
 # Rewrite Destiny
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -220,8 +221,8 @@
 
 ![Rewrite Destiny](cards/faction_blue/rewrite-destiny.webp)
 
-
 # Runefold Ward
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Spell
@@ -231,8 +232,8 @@
 
 ![Runefold Ward](cards/faction_blue/runefold-ward.webp)
 
-
 # Polinore, Prime Archivist
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Legendary
 - Card type: Unit
@@ -252,8 +253,8 @@
 
 ![Polinore, Prime Archivist](cards/faction_blue/seeker/polinore,-prime-archivist.webp)
 
-
 # Runefold Gauntlet
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Legacy
@@ -264,8 +265,8 @@
 
 ![Runefold Gauntlet](cards/faction_blue/seeker/runefold-gauntlet.webp)
 
-
 # Shatter
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -275,8 +276,8 @@
 
 ![Shatter](cards/faction_blue/shatter.webp)
 
-
 # Shifting Winds
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -286,8 +287,8 @@
 
 ![Shifting Winds](cards/faction_blue/shifting-winds.webp)
 
-
 # Spellbound Bahig'udjin
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Unit
@@ -304,8 +305,8 @@
 
 ![Spellbound Bahig'udjin](cards/faction_blue/spellbound-bahig'udjin.webp)
 
-
 # Spellbound Devourer
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Unit
@@ -325,8 +326,8 @@
 
 ![Spellbound Devourer](cards/faction_blue/spellbound-devourer.webp)
 
-
 # Spellbound Gargoyle
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Unit
@@ -345,8 +346,8 @@
 
 ![Spellbound Gargoyle](cards/faction_blue/spellbound-gargoyle.webp)
 
-
 # Telekinesis
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -356,8 +357,8 @@
 
 ![Telekinesis](cards/faction_blue/telekinesis.webp)
 
-
 # Twin Flames
+
 - Faction(s): Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -367,8 +368,8 @@
 
 ![Twin Flames](cards/faction_blue/twin-flames.webp)
 
-
 # Warden’s Lancer
+
 - Faction(s): Conclave of the Sphere, Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Unit
@@ -387,8 +388,8 @@
 
 ![Warden’s Lancer](cards/faction_blue_yellow/warden’s-lancer.webp)
 
-
 # Resonant Guard
+
 - Faction(s): Conclave of the Sphere, Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Spell
@@ -398,8 +399,8 @@
 
 ![Resonant Guard](cards/faction_blue_yellow/resonant-guard.webp)
 
-
 # Reversion
+
 - Faction(s): Conclave of the Sphere, Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Spell
@@ -409,8 +410,8 @@
 
 ![Reversion](cards/faction_blue_yellow/reversion.webp)
 
-
 # Londriel, Spellwarden
+
 - Faction(s): Conclave of the Sphere, Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Unit
@@ -429,8 +430,8 @@
 
 ![Londriel, Spellwarden](cards/faction_blue_yellow/seeker/londriel,-spellwarden.webp)
 
-
 # Ark of Lamentation
+
 - Faction(s): Conclave of the Sphere, Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Legacy
@@ -441,8 +442,8 @@
 
 ![Ark of Lamentation](cards/faction_blue_yellow/seeker/ark-of-lamentation.webp)
 
-
 # Sestinar, the Silent
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Unit
@@ -462,8 +463,8 @@
 
 ![Sestinar, the Silent](cards/faction_green/sestinar,-the-silent.webp)
 
-
 # Soulwhisperer
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Unit
@@ -483,8 +484,8 @@
 
 ![Soulwhisperer](cards/faction_green/soulwhisperer.webp)
 
-
 # Stitched Corpse
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Unit
@@ -504,8 +505,8 @@
 
 ![Stitched Corpse](cards/faction_green/stitched-corpse.webp)
 
-
 # Thrice Murdered
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Unit
@@ -525,8 +526,8 @@
 
 ![Thrice Murdered](cards/faction_green/thrice-murdered.webp)
 
-
 # Unmake
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type and subtype(s): Spell, Channel
@@ -535,8 +536,8 @@
 
 ![Unmake](cards/faction_green/unmake.webp)
 
-
 # Writhing Pain
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -546,8 +547,8 @@
 
 ![Writhing Pain](cards/faction_green/writhing-pain.webp)
 
-
 # Back for More
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -557,8 +558,8 @@
 
 ![Back for More](cards/faction_green/back-for-more.webp)
 
-
 # Brutal Outburst
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -568,8 +569,8 @@
 
 ![Brutal Outburst](cards/faction_green/brutal-outburst.webp)
 
-
 # Corpse Explosion
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type and subtype(s): Spell, Channel
@@ -578,8 +579,8 @@
 
 ![Corpse Explosion](cards/faction_green/corpse-explosion.webp)
 
-
 # Curse of Lethargy
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -589,8 +590,8 @@
 
 ![Curse of Lethargy](cards/faction_green/curse-of-lethargy.webp)
 
-
 # Dark Bindings
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -600,8 +601,8 @@
 
 ![Dark Bindings](cards/faction_green/dark-bindings.webp)
 
-
 # Dead-at-Arms
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Unit
@@ -620,8 +621,8 @@
 
 ![Dead-at-Arms](cards/faction_green/dead-at-arms.webp)
 
-
 # Deadeye Archer
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Unit
@@ -641,8 +642,8 @@
 
 ![Deadeye Archer](cards/faction_green/deadeye-archer.webp)
 
-
 # Death's Call
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Spell
@@ -652,8 +653,8 @@
 
 ![Death's Call](cards/faction_green/death's-call.webp)
 
-
 # Anush-Vah Disciple
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Unit
@@ -672,8 +673,8 @@
 
 ![Anush-Vah Disciple](cards/faction_green/anush-vah-disciple.webp)
 
-
 # Dreadheart's Presence
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Spell
@@ -683,8 +684,8 @@
 
 ![Dreadheart's Presence](cards/faction_green/dreadheart's-presence.webp)
 
-
 # Drown in Oblivion
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -695,8 +696,8 @@
 
 ![Drown in Oblivion](cards/faction_green/drown-in-oblivion.webp)
 
-
 # Duskwood Prowler
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Unit
@@ -715,8 +716,8 @@
 
 ![Duskwood Prowler](cards/faction_green/duskwood-prowler.webp)
 
-
 # Entrap the Mind
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Spell
@@ -726,8 +727,8 @@
 
 ![Entrap the Mind](cards/faction_green/entrap-the-mind.webp)
 
-
 # Fleshstripper
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Unit
@@ -747,8 +748,8 @@
 
 ![Fleshstripper](cards/faction_green/fleshstripper.webp)
 
-
 # Forced March
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type and subtype(s): Spell, Channel
@@ -757,8 +758,8 @@
 
 ![Forced March](cards/faction_green/forced-march.webp)
 
-
 # Gift of Flesh
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -768,8 +769,8 @@
 
 ![Gift of Flesh](cards/faction_green/gift-of-flesh.webp)
 
-
 # Mend the Dead
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -779,8 +780,8 @@
 
 ![Mend the Dead](cards/faction_green/mend-the-dead.webp)
 
-
 # Price of Devotion
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -790,8 +791,8 @@
 
 ![Price of Devotion](cards/faction_green/price-of-devotion.webp)
 
-
 # Vorendal, the Dreadheart
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Legendary
 - Card type: Unit
@@ -811,8 +812,8 @@
 
 ![Vorendal, the Dreadheart](cards/faction_green/seeker/vorendal,-the-dreadheart.webp)
 
-
 # Heartlock
+
 - Faction(s): Legion of the Fallen
 - Card rarity: Unique
 - Card type: Legacy
@@ -823,8 +824,8 @@
 
 ![Heartlock](cards/faction_green/seeker/heartlock.webp)
 
-
 # Spell Plunder
+
 - Faction(s): Legion of the Fallen, Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Spell
@@ -834,8 +835,8 @@
 
 ![Spell Plunder](cards/faction_green_blue/spell-plunder.webp)
 
-
 # Umberland Shade
+
 - Faction(s): Legion of the Fallen, Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Unit
@@ -854,8 +855,8 @@
 
 ![Umberland Shade](cards/faction_green_blue/umberland-shade.webp)
 
-
 # Disembody
+
 - Faction(s): Legion of the Fallen, Conclave of the Sphere
 - Card rarity: Basic
 - Card type: Spell
@@ -865,13 +866,13 @@
 
 ![Disembody](cards/faction_green_blue/disembody.webp)
 
-
 # Soul-Stitcher
+
 - Faction(s): Legion of the Fallen, Conclave of the Sphere
 - Card rarity: Unique
 - Card type: Unit
 - Cost: 20
-- Stats: 
+- Stats:
   - Accuracy: N/A
   - Power: N/A
   - Range: N/A
@@ -884,8 +885,8 @@
 
 ![Soul-Stitcher](cards/faction_green_blue/seeker/soul-stitcher.webp)
 
-
 # Countess Morrida Umberland
+
 - Faction(s): Legion of the Fallen, Conclave of the Sphere
 - Card rarity: Legendary
 - Card type: Unit
@@ -904,20 +905,20 @@
 
 ![Countess Morrida Umberland](cards/faction_green_blue/seeker/countess-morrida-umberland.webp)
 
-
 # Shadow Shroud
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type: Attachment
 - Subtype(s): Item
 - Cost: 2
-- Abilities: 
+- Abilities:
   - Ambush 1: This unit gets +1⚔ on attacks against refreshed enemies.
 
 ![Shadow Shroud](cards/faction_none/shadow-shroud.webp)
 
-
 # Winged Sandals
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type: Attachment
@@ -927,21 +928,21 @@
 
 ![Winged Sandals](cards/faction_none/winged-sandals.webp)
 
-
 # Feral Gauntlets
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type: Attachment
 - Card subtype: Item
 - Cost: 2
-- Abilities: 
+- Abilities:
   - This unit gets +2 ⚔️ and gains:
   - Rend 3: Whenever this unit scores a second melee hit against the same enemy during an activation, it deals 3 extra damage.
 
 ![Feral Gauntlets](cards/faction_none/feral-gauntlets.webp)
 
-
 # Amulet of Vigor
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type: Attachment
@@ -951,72 +952,72 @@
 
 ![Amulet of Vigor](cards/faction_none/amulet-of-vigor.webp)
 
-
 # Great Shield
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type: Attachment
 - Subtype(s): Item
 - Cost: 1
-- Abilities: 
+- Abilities:
   - This unit gets +1 Defense and gains:
     - Shield Wall 1: While other allies are nearby, they get +1 Defense.
     - If this unit already had Shield Wall, increase it by 1 instead.
 
 ![Great Shield](cards/faction_none/great-shield.webp)
 
-
 # Horned Helmet
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type and subtype(s): Attachment, Item
 - Cost: 2
-- Abilities: 
+- Abilities:
   - This unit gets +1 ⚔ and gains:
   - Knockback 4: Whenever this unit scores a hit, it may push the defender up to 4".
 
 ![Horned Helmet](cards/faction_none/horned-helmet.webp)
 
-
 # Hunter's Bow
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type: Attachment
 - Subtype(s): Item
 - Cost: 2
-- Abilities: 
+- Abilities:
   - This unit gets +3 Accuracy and gains:
   - Ranged Expert 1: This unit gets +1 Power on ranged attacks.
 
 ![Hunter's Bow](cards/faction_none/hunter's-bow.webp)
 
-
 # Reinforced Plate
+
 - Faction(s): None
 - Card rarity: Unique
 - Card type: Attachment
 - Subtype(s): Item
 - Cost: 3
-- Abilities: 
+- Abilities:
   - This unit gets +2 Defense and gains:
   - Ironclad 2: This unit gets +2 Defense against ranged attacks.
 
 ![Reinforced Plate](cards/faction_none/reinforced-plate.webp)
 
-
 # Ring of Vitality
+
 - Faction(s): None
 - Card rarity: Unique
 - Card type: Attachment
 - Subtype(s): Item
 - Cost: 3
-- Abilities: 
+- Abilities:
   - Regeneration 3: Whenever you activate this unit, it recovers 3 health.
 
 ![Ring of Vitality](cards/faction_none/ring-of-vitality.webp)
 
-
 # Sacred Prayerbook
+
 - Faction(s): None
 - Card rarity: Unique
 - Card type and subtype(s): Attachment, Item
@@ -1028,8 +1029,8 @@
 
 ![Sacred Prayerbook](cards/faction_none/sacred-prayerbook.webp)
 
-
 # Scoundrel's Blade
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type: Attachment
@@ -1040,20 +1041,20 @@
 
 ![Scoundrel's Blade](cards/faction_none/scoundrel's-blade.webp)
 
-
 # Scout's Boots
+
 - Faction(s): None
 - Card rarity: Basic
 - Card type and subtype(s): Attachment, Item
 - Cost: 2
-- Abilities: 
+- Abilities:
   - This unit gets +2 Speed and gains:
   - Hit and Run: Whenever this unit defeats an enemy, it may perform a free move.
 
 ![Scout's Boots](cards/faction_none/scout's-boots.webp)
 
-
 # Spirit Shaman
+
 - Faction(s): Primal Blood
 - Card rarity: Unique
 - Card type: Unit
@@ -1072,8 +1073,8 @@
 
 ![Spirit Shaman](cards/faction_red/spirit-shaman.webp)
 
-
 # Tarok Beast
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type and subtype(s): Unit, Beast
@@ -1091,8 +1092,8 @@
 
 ![Tarok Beast](cards/faction_red/tarok-beast.webp)
 
-
 # Thunderous Devastation
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1105,8 +1106,8 @@
 
 ![Thunderous Devastation](cards/faction_red/thunderous-devastation.webp)
 
-
 # Unstoppable Rush
+
 - Faction(s): Primal Blood
 - Card rarity: Unique
 - Card type: Spell
@@ -1116,8 +1117,8 @@
 
 ![Unstoppable Rush](cards/faction_red/unstoppable-rush.webp)
 
-
 # Bloodfeast Raptor
+
 - Faction(s): Primal Blood
 - Card rarity: Unique
 - Card type: Unit
@@ -1138,8 +1139,8 @@
 
 ![Bloodfeast Raptor](cards/faction_red/bloodfeast-raptor.webp)
 
-
 # Bloodfrenzy Berserker
+
 - Faction(s): Primal Blood
 - Card rarity: Legendary
 - Card type: Unit
@@ -1159,8 +1160,8 @@
 
 ![Bloodfrenzy Berserker](cards/faction_red/bloodfrenzy-berserker.webp)
 
-
 # Boneclaw Raider
+
 - Faction(s): Primal Blood
 - Card rarity: Legendary
 - Card type: Unit
@@ -1179,8 +1180,8 @@
 
 ![Boneclaw Raider](cards/faction_red/boneclaw-raider.webp)
 
-
 # Cabra Mauler
+
 - Faction(s): Primal Blood
 - Card rarity: Legendary
 - Card type: Unit
@@ -1199,8 +1200,8 @@
 
 ![Cabra Mauler](cards/faction_red/cabra-mauler.webp)
 
-
 # Cataclysmic Blast
+
 - Faction(s): Primal Blood
 - Card rarity: Unique
 - Card type: Spell
@@ -1210,21 +1211,21 @@
 
 ![Cataclysmic Blast](cards/faction_red/cataclysmic-blast.webp)
 
-
 # Consume Carcass
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
 - Subtype(s): Channel
 - Cost: 2
-- Abilities: 
+- Abilities:
   - If a unit card entered a discard pile during this activation, this card gains Quicken. (This spell can be played at any time you could play a swift.)
   - Banish a unit card from any discard pile. An ally recovers 3 health.
 
 ![Consume Carcass](cards/faction_red/consume-carcass.webp)
 
-
 # Adrenaline Rush
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1234,8 +1235,8 @@
 
 ![Adrenaline Rush](cards/faction_red/adrenaline-rush.webp)
 
-
 # Diehard
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1245,8 +1246,8 @@
 
 ![Diehard](cards/faction_red/diehard.webp)
 
-
 # Endless Rage
+
 - Faction(s): Primal Blood
 - Card rarity: Unique
 - Card type: Spell
@@ -1256,8 +1257,8 @@
 
 ![Endless Rage](cards/faction_red/endless-rage.webp)
 
-
 # Farsight Ambusher
+
 - Faction(s): Primal Blood
 - Card rarity: Unique
 - Card type: Unit
@@ -1276,8 +1277,8 @@
 
 ![Farsight Ambusher](cards/faction_red/farsight-ambusher.webp)
 
-
 # Fortune's Favor
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1287,8 +1288,8 @@
 
 ![Fortune's Favor](cards/faction_red/fortune's-favor.webp)
 
-
 # Heartstab Blast
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1298,8 +1299,8 @@
 
 ![Heartstab Blast](cards/faction_red/heartstab-blast.webp)
 
-
 # Hunter's Sense
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1309,8 +1310,8 @@
 
 ![Hunter's Sense](cards/faction_red/hunter's-sense.webp)
 
-
 # Muq'Tovor, Bodybreaker
+
 - Faction(s): Primal Blood
 - Card rarity: Unique
 - Card type: Unit
@@ -1329,8 +1330,8 @@
 
 ![Muq'Tovor, Bodybreaker](cards/faction_red/muq'tovor,-bodybreaker.webp)
 
-
 # Nature's Wrath
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1340,8 +1341,8 @@
 
 ![Nature's Wrath](cards/faction_red/nature's-wrath.webp)
 
-
 # Primal Totem
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Unit
@@ -1362,8 +1363,8 @@
 
 ![Primal Totem](cards/faction_red/primal-totem.webp)
 
-
 # Retribution
+
 - Faction(s): Primal Blood
 - Card rarity: Unique
 - Card type: Spell
@@ -1373,8 +1374,8 @@
 
 ![Retribution](cards/faction_red/retribution.webp)
 
-
 # Seize the Initiative
+
 - Faction(s): Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1384,8 +1385,8 @@
 
 ![Seize the Initiative](cards/faction_red/seize-the-initiative.webp)
 
-
 # Storm's Eye
+
 - Faction(s): Primal Blood
 - Card rarity: Legacy
 - Card type: Unit
@@ -1403,8 +1404,8 @@
 
 ![Storm's Eye](cards/faction_red/seeker/storm's-eye.webp)
 
-
 # Thundersteps
+
 - Faction(s): Primal Blood
 - Card rarity: Legendary
 - Card type: Unit
@@ -1424,8 +1425,8 @@
 
 ![Thundersteps](cards/faction_red/seeker/thundersteps.webp)
 
-
 # Chaotic Bargain
+
 - Faction(s): Primal Blood, Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
@@ -1438,8 +1439,8 @@
 
 ![Chaotic Bargain](cards/faction_red_green/chaotic-bargain.webp)
 
-
 # Cursehost Boar
+
 - Faction(s): Primal Blood, Legion of the Fallen
 - Card rarity: Unique
 - Card type: Unit
@@ -1459,21 +1460,21 @@
 
 ![Cursehost Boar](cards/faction_red_green/cursehost-boar.webp)
 
-
 # Ravenous Swarm
+
 - Faction(s): Primal Blood, Legion of the Fallen
 - Card rarity: Basic
 - Card type: Spell
 - Subtype(s): Channel
 - Cost: 3
-- Abilities: 
+- Abilities:
   - If an ally was defeated during this activation, this card gains Quicken. (This spell can be played at any time you could play a swift.)
   - Deal 4 damage to an enemy and 2 damage to an ally.
 
 ![Ravenous Swarm](cards/faction_red_green/ravenous-swarm.webp)
 
-
 # Effigy of Chaos
+
 - Faction(s): Primal Blood, Legion of the Fallen
 - Card rarity: Unique
 - Card type: Legacy
@@ -1484,8 +1485,8 @@
 
 ![Effigy of Chaos](cards/faction_red_green/seeker/effigy-of-chaos.webp)
 
-
 # In'Gor, the Spiritbound
+
 - Faction(s): Primal Blood, Legion of the Fallen
 - Card rarity: Legendary
 - Card type: Unit
@@ -1505,8 +1506,8 @@
 
 ![In'Gor, the Spiritbound](cards/faction_red_green/seeker/in'gor,-the-spiritbound.webp)
 
-
 # Shield of Andravos
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Spell
@@ -1516,8 +1517,8 @@
 
 ![Shield of Andravos](cards/faction_yellow/shield-of-andravos.webp)
 
-
 # Astaris Battlemaster
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Unit
@@ -1536,8 +1537,8 @@
 
 ![Astaris Battlemaster](cards/faction_yellow/astaris-battlemaster.webp)
 
-
 # Truestone Exemplar
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Unit
@@ -1557,8 +1558,8 @@
 
 ![Truestone Exemplar](cards/faction_yellow/truestone-exemplar.webp)
 
-
 # Valcarist Priest
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Unit
@@ -1577,8 +1578,8 @@
 
 ![Valcarist Priest](cards/faction_yellow/valcarist-priest.webp)
 
-
 # Valorous Command
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Spell
@@ -1588,8 +1589,8 @@
 
 ![Valorous Command](cards/faction_yellow/valorous-command.webp)
 
-
 # Ward of Valcaris
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Spell
@@ -1599,8 +1600,8 @@
 
 ![Ward of Valcaris](cards/faction_yellow/ward-of-valcaris.webp)
 
-
 # Warfront Commander
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Unit
@@ -1619,8 +1620,8 @@
 
 ![Warfront Commander](cards/faction_yellow/warfront-commander.webp)
 
-
 # Barter
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Spell
@@ -1630,8 +1631,8 @@
 
 ![Barter](cards/faction_yellow/barter.webp)
 
-
 # Citadel Crossbowman
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Unit
@@ -1650,8 +1651,8 @@
 
 ![Citadel Crossbowman](cards/faction_yellow/citadel-crossbowman.webp)
 
-
 # Convoke
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Spell
@@ -1661,8 +1662,8 @@
 
 ![Convoke](cards/faction_yellow/convoke.webp)
 
-
 # Death Undone
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Spell
@@ -1672,8 +1673,8 @@
 
 ![Death Undone](cards/faction_yellow/death-undone.webp)
 
-
 # Decree of Valcaris
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Spell
@@ -1683,8 +1684,8 @@
 
 ![Decree of Valcaris](cards/faction_yellow/decree-of-valcaris.webp)
 
-
 # Enforce Balance
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Spell
@@ -1694,8 +1695,8 @@
 
 ![Enforce Balance](cards/faction_yellow/enforce-balance.webp)
 
-
 # Healing Light
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Spell
@@ -1705,8 +1706,8 @@
 
 ![Healing Light](cards/faction_yellow/healing-light.webp)
 
-
 # Herald of Salvation
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Unit
@@ -1726,8 +1727,8 @@
 
 ![Herald of Salvation](cards/faction_yellow/herald-of-salvation.webp)
 
-
 # Knight of Astaris
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Unit
@@ -1746,8 +1747,8 @@
 
 ![Knight of Astaris](cards/faction_yellow/knight-of-astaris.webp)
 
-
 # Answer the Call
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Spell
@@ -1757,8 +1758,8 @@
 
 ![Answer the Call](cards/faction_yellow/answer-the-call.webp)
 
-
 # Rites of Healing
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Spell
@@ -1771,8 +1772,8 @@
 
 ![Rites of Healing](cards/faction_yellow/rites-of-healing.webp)
 
-
 # Rites of Might
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Basic
 - Card type: Spell
@@ -1782,8 +1783,8 @@
 
 ![Rites of Might](cards/faction_yellow/rites-of-might.webp)
 
-
 # Rogarth, the Breaker
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Unit
@@ -1803,8 +1804,8 @@
 
 ![Rogarth, the Breaker](cards/faction_yellow/rogarth,-the-breaker.webp)
 
-
 # Second Wind
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Spell
@@ -1814,8 +1815,8 @@
 
 ![Second Wind](cards/faction_yellow/second-wind.webp)
 
-
 # Armored Revenant
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Unit
@@ -1834,8 +1835,8 @@
 
 ![Armored Revenant](cards/faction_yellow/armored-revenant.webp)
 
-
 # Sigirth Andravos
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type and subtype(s): Unit, Seeker, Human
@@ -1854,8 +1855,8 @@
 
 ![Sigirth Andravos](cards/faction_yellow/seeker/sigirth-andravos.webp)
 
-
 # Andravon
+
 - Faction(s): Order of the Shattered Throne
 - Card rarity: Unique
 - Card type: Seeker
@@ -1867,8 +1868,8 @@
 
 ![Andravon](cards/faction_yellow/seeker/andravon.webp)
 
-
 # Twinblades Skirmisher
+
 - Faction(s): Order of the Shattered Throne, Primal Blood
 - Card rarity: Unique
 - Card type: Unit
@@ -1887,8 +1888,8 @@
 
 ![Twinblades Skirmisher](cards/faction_yellow_red/twinblades-skirmisher.webp)
 
-
 # Call to Arms
+
 - Faction(s): Order of the Shattered Throne, Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1898,8 +1899,8 @@
 
 ![Call to Arms](cards/faction_yellow_red/call-to-arms.webp)
 
-
 # Rebounding Throw
+
 - Faction(s): Order of the Shattered Throne, Primal Blood
 - Card rarity: Basic
 - Card type: Spell
@@ -1909,8 +1910,8 @@
 
 ![Rebounding Throw](cards/faction_yellow_red/rebounding-throw.webp)
 
-
 # Auric Evenhand
+
 - Faction(s): Order of the Shattered Throne, Primal Blood
 - Card rarity: Unique
 - Card type: Unit
@@ -1930,8 +1931,8 @@
 
 ![Auric Evenhand](cards/faction_yellow_red/seeker/auric-evenhand.webp)
 
-
 # Will of the Forge
+
 - Faction(s): Order of the Shattered Throne, Primal Blood
 - Card rarity: Unique
 - Card type: Legacy
@@ -1943,4 +1944,3 @@
     - This attack deals 2 fewer damage.
 
 ![Will of the Forge](cards/faction_yellow_red/seeker/will-of-the-forge.webp)
-
